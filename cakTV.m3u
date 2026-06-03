@@ -1,6 +1,5 @@
 ﻿#EXTM3U url-tvg="http://epgontvhdbr.com/,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
-#EXTINF:-1 tvg-name="ManoTV"tvg-id="novidades"tvg-logo="https://i.imgur.com/gWFKpfr.png"tvg-chno="1"group-title="ManoTV",CANAL DO USUÁRIO HD
-https://abre.ai/canaldocliente08mp4
+#EXTINF:-1 tvg-name="cakTV"tvg-id="novidades"tvg-logo="https://i.imgur.com/gWFKpfr.png"tvg-chno="1"group-title="ManoTV",CANAL DO USUÁRIO HD
 #EXTINF:-1 tvg-name="GLOBO SÃO PAULO"tvg-id="GLOBO SÃO PAULO"tvg-logo="https://i.imgur.com/waZJG1M.png"tvg-chno=""group-title="Canais | GLOBO",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-name="BAND HD"tvg-id="BAND HD"tvg-logo="https://i.imgur.com/nCJNjyN.png"tvg-chno=""group-title="Canais | BAND TV",Band SP HD
