@@ -15,15 +15,15 @@ https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 http://15.235.42.84:8088/rj-live/rj-live/600234.ts
 #EXTINF:-1 tvg-name="SporTV3"tvg-id="SporTV3"tvg-logo="https://i.imgur.com/ttHpdGp.png"tvg-chno=""group-title="",SporTV 3 HD
 http://15.235.42.84:8088/rj-live/rj-live/600236.ts
-#EXTINF:-1 tvg-name="ESPN"tvg-id="ESPN"tvg-logo="https://i.imgur.com/CkoAvYH.png"tvg-chno=""group-title="Canais | ESPN",ESPN   HD
+#EXTINF:-1 tvg-name="ESPN"tvg-id="ESPN"tvg-logo="https://postimg.cc/XBSfWC9X"tvg-chno=""group-title="Canais | ESPN",ESPN HD
 https://cr7v.short.gy/live25/spn/Index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2"tvg-id="ESPN 2"tvg-logo="https://i.imgur.com/ZAHnoPh.png"tvg-chno=""group-title="Canais | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-name="ESPN 2"tvg-id="ESPN 2"tvg-logo="https://postimg.cc/QKGQDTcF"tvg-chno=""group-title="Canais | ESPN",ESPN 2 HD
 http://46.151.196.223:14438/
-#EXTINF:-1 tvg-name="ESPN 3"tvg-id="ESPN 3"tvg-logo="https://i.imgur.com/VCPTlBD.png"tvg-chno=""group-title="Canais | ESPN",ESPN 3 HD
+#EXTINF:-1 tvg-name="ESPN 3"tvg-id="ESPN 3"tvg-logo="https://postimg.cc/WqLGVk0D"tvg-chno=""group-title="Canais | ESPN",ESPN 3 HD
 http://46.151.196.223:14444/
-#EXTINF:-1 tvg-name="ESPN 4"tvg-id="ESPN 4"tvg-logo="https://i.imgur.com/ErWFVO3.png"tvg-chno=""group-title="Canais | ESPN",ESPN 4 HD
+#EXTINF:-1 tvg-name="ESPN 4"tvg-id="ESPN 4"tvg-logo="https://postimg.cc/7J3gZZNH"tvg-chno=""group-title="Canais | ESPN",ESPN 4 HD
 http://79.127.243.211:14514/
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Zz2VFpL.png"tvg-chno=""group-title="Canais | ESPN",ESPN 5 HD
+#EXTINF:-1 tvg-name="ESPN 5"tvg-id="ESPN 5"tvg-logo="https://postimg.cc/zHZCNgTH"tvg-chno=""group-title="Canais | ESPN",ESPN 5 HD
 https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Zz2VFpL.png"tvg-chno=""group-title="",ESPN 6 HD
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
