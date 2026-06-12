@@ -37,34 +37,6 @@ https://cr7v.short.gy/Canal4/index.m3u8
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 6"tvg-id="PREMIERE6 HD"tvg-logo="https://i.postimg.cc/6qGPF74X/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",Premiere 6 HD
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="ao vivo | LIBERTADORES",Liberta 1
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="ao vivo | LIBERTADORES",Liberta 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="ao vivo | LIBERTADORES",Liberta 3
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="ao vivo | LIBERTADORES",Liberta 4
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="ao vivo | LIBERTADORES",Liberta 5
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="ao vivo | COPA DO BRASIL",Copa do Brasil  
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 3
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 4
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JYoNKmt.png"tvg-chno=""group-title="Canais | PPV ESPORTES",Max 1
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JYoNKmt.png"tvg-chno=""group-title="Canais | PPV ESPORTES",Max 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JYoNKmt.png"tvg-chno=""group-title="Canais | PPV ESPORTES",Max 3
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JYoNKmt.png"tvg-chno=""group-title="Canais | PPV ESPORTES",Max 4
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JYoNKmt.png"tvg-chno=""group-title="Canais | PPV ESPORTES",Max 5
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:-1 tvg-name="CNN BRASIL"tvg-id="CNN BRASIL"tvg-logo="https://i.postimg.cc/L5ZWGqYD/cnnbrasil.png"tvg-chno=""group-title="Canais | NOTÍCIAS",CNN BRASIL HD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 #EXTINF:-1 tvg-name="GLOBONEWS"tvg-id="GLOBONEWS"tvg-logo="https://i.postimg.cc/j2J1BWwk/globonews.png"tvg-chno=""group-title="Canais | NOTÍCIAS",Globo News HD
@@ -125,3 +97,21 @@ http://streamer.sattvacabo.com.br/HBO_SIGNATURE/index.m3u8?token=TLGacFXd0gIXIuo
 http://15.235.42.84:8088/rj-live/rj-live/600239.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL"tvg-id=""tvg-logo="https://i.postimg.cc/XXSPWVdT/universal-channel.png"tvg-chno=""group-title="Canais | FILMES E SERIES",Universal Channel HD
 http://79.127.243.211:14623/
+#EXTINF:-1 tvg-name="LIBERTA 1"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="AO VIVO | LIBERTADORES",Liberta 1
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="LIBERTA 2"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="AO VIVO | LIBERTADORES",Liberta 2
+https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="LIBERTA 3"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="AO VIVO | LIBERTADORES",Liberta 3
+https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="LIBERTA 4"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="AO VIVO | LIBERTADORES",Liberta 4
+https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="LIBERTA 5"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="AO VIVO | LIBERTADORES",Liberta 5
+https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+#EXTINF:-1 tvg-name="COPA DO BRASIL 1"tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="AO VIVO | COPA DO BRASIL",Copa do Brasil  
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="COPA DO BRASIL 2"tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="AO VIVO | COPA DO BRASIL",Copa do Brasil 2
+https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="COPA DO BRASIL 3"tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="AO VIVO | COPA DO BRASIL",Copa do Brasil 3
+https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="COPA DO BRASIL 4"tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="AO VIVO | COPA DO BRASIL",Copa do Brasil 4
+https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
