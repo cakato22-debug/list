@@ -1,9 +1,9 @@
 ﻿#EXTM3U url-tvg="http://epgontvhdbr.com/,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
-#EXTINF:-1 tvg-name="CULTURA"tvg-id="CULTURA"tvg-logo="https://i.imgur.com/xL9QvHp.png"tvg-chno=""group-title="Canais | ABERTOS",CULTURA
+#EXTINF:-1 tvg-name="CULTURA"tvg-id="CULTURA"tvg-logo="https://i.postimg.cc/G27kH7Zc/cultura.png"tvg-chno=""group-title="Canais | ABERTOS",CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SÃO PAULO"tvg-logo="https://i.imgur.com/waZJG1M.png"tvg-chno=""group-title="Canais | ABERTOS",GLOBO
+#EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SÃO PAULO"tvg-logo="https://i.postimg.cc/LXTxv3GS/globo.png"tvg-chno=""group-title="Canais | ABERTOS",GLOBO
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-name="BAND"tvg-id="BAND"tvg-logo="https://i.postimg.cc/j2J1BWwh/band.png"tvg-chno=""group-title="Canais | ABERTOS",BAND
+#EXTINF:-1 tvg-name="BAND"tvg-id="BAND"tvg-logo="https://i.postimg.cc/d1B5njgY/band.png"tvg-chno=""group-title="Canais | ABERTOS",BAND
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
